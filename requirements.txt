@@ -1,0 +1,8 @@
+torch>=2.1
+transformers>=4.39
+datasets
+accelerate
+peft
+bitsandbytes
+sentencepiece
+tqdm

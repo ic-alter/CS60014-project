@@ -1,0 +1,4 @@
+data/SCUT-C2MChn/*
+data/*.jsonl
+src/base_model
+src/lora_model/checkpoint-*
