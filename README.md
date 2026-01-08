@@ -54,7 +54,7 @@ project/
 ├── requirements.txt
 └── README.md
 ```
-(由于原始数据集较大，所以未直接包含在github仓库中，可从https://github.com/Zongyuan-Jiang/C2MChn下载)
+(由于原始数据集较大，所以未直接包含在github仓库中，可从https://github.com/Zongyuan-Jiang/C2MChn 下载)
 
 ### 2.4 运行流程
 1. 数据预处理
