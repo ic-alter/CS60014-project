@@ -1,3 +1,4 @@
+!data/SCUT-C2MChn
 data/SCUT-C2MChn/*
 data/*.jsonl
 src/base_model
